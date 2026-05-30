@@ -58,18 +58,6 @@
                 "date": "08/05/2026",
                 "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/nguoi-hau-trong-tu-kinh/chap4",
                 "pages": 22
-            },
-            {
-                "id": 5,
-                "title": "Chap 5",
-                "date": "01/05/2026",
-                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/nguoi-hau-trong-tu-kinh/chap5"
-            },
-            {
-                "id": 6,
-                "title": "Chap 6",
-                "date": "24/04/2026",
-                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/nguoi-hau-trong-tu-kinh/chap6"
             }
         ]
 },
@@ -95,37 +83,42 @@
                 "title": "Chap 1",
                 "date": "29/05/2026",
                 "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/cai-the-loai-kim-chu-gi-the-nay/chap1",
-                "pages": 19
+                "pages": 23
             },
             {
                 "id": 2,
                 "title": "Chap 2",
                 "date": "22/05/2026",
-                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/cai-the-loai-kim-chu-gi-the-nay/chap2"
+                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/cai-the-loai-kim-chu-gi-the-nay/chap2",
+                "pages": 12
             },
             {
                 "id": 3,
                 "title": "Chap 3",
                 "date": "15/05/2026",
-                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/cai-the-loai-kim-chu-gi-the-nay/chap3"
+                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/cai-the-loai-kim-chu-gi-the-nay/chap3",
+                "pages": 28
             },
             {
                 "id": 4,
                 "title": "Chap 4",
                 "date": "08/05/2026",
-                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/cai-the-loai-kim-chu-gi-the-nay/chap4"
+                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/cai-the-loai-kim-chu-gi-the-nay/chap4",
+                "pages": 21
             },
             {
                 "id": 5,
                 "title": "Chap 5",
                 "date": "01/05/2026",
-                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/cai-the-loai-kim-chu-gi-the-nay/chap5"
+                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/cai-the-loai-kim-chu-gi-the-nay/chap5",
+                "pages": 22
             },
             {
                 "id": 6,
                 "title": "Chap 6",
                 "date": "24/04/2026",
-                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/cai-the-loai-kim-chu-gi-the-nay/chap6"
+                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/cai-the-loai-kim-chu-gi-the-nay/chap6",
+                "pages": 24
             }
         ]
 },
@@ -257,37 +250,43 @@
                 "id": 2,
                 "title": "Chap 2",
                 "date": "22/05/2026",
-                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/ruoc-hoa-vao-than/chap2"
+                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/ruoc-hoa-vao-than/chap2",
+                "pages": 25
             },
             {
                 "id": 3,
                 "title": "Chap 3",
                 "date": "15/05/2026",
-                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/ruoc-hoa-vao-than/chap3"
+                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/ruoc-hoa-vao-than/chap3",
+                "pages": 9
             },
             {
                 "id": 4,
                 "title": "Chap 4",
                 "date": "08/05/2026",
-                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/ruoc-hoa-vao-than/chap4"
+                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/ruoc-hoa-vao-than/chap4",
+                "pages": 28
             },
             {
                 "id": 5,
                 "title": "Chap 5",
                 "date": "01/05/2026",
-                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/ruoc-hoa-vao-than/chap5"
+                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/ruoc-hoa-vao-than/chap5",
+                "pages": 31
             },
             {
                 "id": 6,
                 "title": "Chap 6",
                 "date": "24/04/2026",
-                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/ruoc-hoa-vao-than/chap6"
+                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/ruoc-hoa-vao-than/chap6",
+                "pages": 27
             },
             {
                 "id": 7,
                 "title": "Chap 7 - END",
                 "date": "17/04/2026",
-                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/ruoc-hoa-vao-than/chap7"
+                "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/ruoc-hoa-vao-than/chap7",
+                "pages": 28
             }
         ]
     },
@@ -330,7 +329,7 @@
                 "title": "Chap 0 - Prologue",
                 "date": "29/05/2026",
                 "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/mot-ngay-ky-la/chap0",
-                "pages": 19
+                "pages": 3
             }
         ]
     },
@@ -368,7 +367,7 @@
                 "title": "Chap 0 - Prologue",
                 "date": "29/05/2026",
                 "folder": "https://pub-a0cc60d51c6e4ebab81ee134d3dada9e.r2.dev/ost-ngoai-ong-kinh/chap0",
-                "pages": 19
+                "pages": 10
             }
         ]
     }
