@@ -75,18 +75,6 @@ fetch("data/data.json")
     `;
 }
 
-reader.innerHTML += `
-    <img
-        src="${imageUrl}"
-        loading="lazy"
-
-        onerror="
-            this.style.display='none'
-        "
-
-        alt="page ${i}"
-    >
-`;
 
     // ===== CHAP TRƯỚC / SAU =====
 
