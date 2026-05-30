@@ -23,23 +23,26 @@
     <div class="chapter-page-container">
   
   <div class="chapter-header">
-    <div class="breadcrumb"><a href="homepage.html">Trang Chủ</a> &gt; <a href="comics.html"></a> &gt; Chap 1</div>
+    <div class="breadcrumb" id="breadcrumb"></div>
     
-    <h1 class="chapter-title">
-      Người Hầu Trong Tủ Kính - Chap 1 <span class="update-time">(Cập nhật lúc: 2026-05-29 23:38:32)</span>
+    <h1 class="chapter-title" id="chapter-title">
     </h1>
 
     <div class="navigation-buttons">
-      <a href="#" class="btn-nav btn-prev">← Chap trước</a>
+      <a id="prev-btn"
+   class="btn-nav">
+   ← Chap trước
+</a>
+
+<a id="next-btn"
+   class="btn-nav">
+   Chap sau →
+</a>
       </div>
   </div>
 
-  <div class="chapter-content">
-    <img src="bìa maid.jpg" alt="Trang 1" loading="lazy">
-    <img src="1_01.jpg" alt="Trang 2" loading="lazy">
-    <img src="1_02.jpg" alt="Trang 3" loading="lazy">
-    <img src="1_03.jpg" alt="Trang 3" loading="lazy">
-    <img src="2.jpg" alt="Trang 3" loading="lazy">
+  <div class="chapter-content" id="chapter-content">
+    <!-- Hình ảnh chương sẽ được chèn vào đây bằng JavaScript -->
     </div>
 </div>
 <div class="chapter-toolbar" id="chapterToolbar">
@@ -92,4 +95,5 @@
     lastScrollTop = currentScroll <= 0 ? 0 : currentScroll; 
   }, false);
 </script>
+<script src="comicchap.js"></script>
 </html>

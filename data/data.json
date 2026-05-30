@@ -1,0 +1,158 @@
+{
+    "nguoi-hau-trong-tu-kinh": {
+        "cover": "chapters/Nguoi Hau Trong Tu Kinh/cover.jpg",
+        "title": "Người Hầu Trong Tủ Kính",
+        "original_title": "abc",
+        "author": "abc",
+        "team": "HeliumTG",
+        "status": "Ongoing",
+        "tags": [
+      "BL",
+      "Manhwa",
+      "Chiếm Hữu",
+      "Bot Ngây Thơ"
+    ],
+        "description": "[Niên hạ chiếm hữu công 'Ju Ui Yeong' X Niên thượng nhút nhát thụ 'Seo Yo Ham'].Trong lúc ở lại một mình thu dọn đồ đạc đến tận đêm muộn, 'Yo-ham' bỗng phát hiện ra một bộ đồ hầu gái. Không thể kìm nén ham muốn thầm kín, ngay khoảnh khắc anh trốn vào trong tủ đồ và bước qua ranh giới của mình...Thì qua khe cửa tủ, 'Ju Ui-yeong', người bấy lâu nay anh chỉ dám đứng từ xa nhìn ngắm, bỗng xuất hiện. Trớ trêu thay, anh lại bị chính cậu ta bắt quả tang vào khoảnh khắc bản thân muốn che giấu nhất. 'Tiền bối, hóa ra anh còn biến thái hơn cả tôi cơ à?'",
+        "chapters": [
+            {
+                "id": 0,
+                "title": "Chap 0",
+                "date": "29/05/2026",
+                "folder": "chapters/Nguoi Hau Trong Tu Kinh/Chap 0",
+                "pages": 10
+            },
+            {
+                "id": 1,
+                "title": "Chap 1",
+                "date": "29/05/2026",
+                "folder": "chapters/Nguoi Hau Trong Tu Kinh/Chap 1"
+            },
+            {
+                "id": 2,
+                "title": "Chap 2",
+                "date": "22/05/2026",
+                "folder": "chapters/Nguoi Hau Trong Tu Kinh/Chap 2"
+            },
+            {
+                "id": 3,
+                "title": "Chap 3",
+                "date": "15/05/2026",
+                "folder": "chapters/Nguoi Hau Trong Tu Kinh/Chap 3"
+            },
+            {
+                "id": 4,
+                "title": "Chap 4",
+                "date": "08/05/2026",
+                "folder": "chapters/Nguoi Hau Trong Tu Kinh/Chap 4"
+            },
+            {
+                "id": 5,
+                "title": "Chap 5",
+                "date": "01/05/2026",
+                "folder": "chapters/Nguoi Hau Trong Tu Kinh/Chap 5"
+            },
+            {
+                "id": 6,
+                "title": "Chap 6",
+                "date": "24/04/2026",
+                "folder": "chapters/Nguoi Hau Trong Tu Kinh/Chap 6"
+            },
+            {
+                "id": 7,
+                "title": "Chap 7",
+                "date": "17/04/2026",
+                "folder": "chapters/Nguoi Hau Trong Tu Kinh/Chap 7"
+            },
+            {
+                "id": 8,
+                "title": "Chap 8",
+                "date": "10/04/2026",
+                "folder": "chapters/Nguoi Hau Trong Tu Kinh/Chap 8"
+            },
+            {
+                "id": 9,
+                "title": "Chap 9",
+                "date": "03/04/2026",
+                "folder": "chapters/Nguoi Hau Trong Tu Kinh/Chap 9"
+            },
+            {
+                "id": 10,
+                "title": "Chap 10",
+                "date": "27/03/2026",
+                "folder": "chapters/Nguoi Hau Trong Tu Kinh/Chap 10"
+            },
+            {
+                "id": 11,
+                "title": "Chap 11",
+                "date": "20/03/2026",
+                "folder": "chapters/Nguoi Hau Trong Tu Kinh/Chap 11"
+            }
+        ]
+},
+    "cai-the-loai-kim-chu-gi-the-nay": {
+        "cover": "chapters/Cai The Loai Kim Chu Gi The Nay/cover.JPG",
+        "title": "Cái Thể Loại Kim Chủ Gì Thế Này!",
+        "original_title": "abc",
+        "author": "abc",
+        "team": "HeliumTG",
+        "status": "Ongoing",
+        "tags": ["BL", "Manhwa", "Chiem Huu", "Bot Ngay Tho"],
+        "description": "Một ngày nọ, 'Kim Chủ' của một trò chơi nhập vai nổi tiếng bỗng nhiên bị hút vào trong thế giới của chính trò chơi đó. Không chỉ phải đối mặt với những thử thách nguy hiểm, anh còn phải tìm cách sống sót và trở thành người mạnh nhất trong thế giới ảo này. Với sự thông minh và kỹ năng chiến đấu xuất sắc, 'Kim Chủ' sẽ phải vượt qua những kẻ thù đáng gờm và khám phá những bí mật đen tối ẩn giấu trong thế giới này để tìm đường trở về nhà.",
+        "chapters": [
+            {
+                "id": 1,
+                "title": "Chap 1",
+                "date": "29/05/2026",
+                "folder": "chapters/Cai The Loai Kim Chu Gi The Nay/Chap 1"
+            },
+            {
+                "id": 2,
+                "title": "Chap 2",
+                "date": "22/05/2026",
+                "folder": "chapters/Cai The Loai Kim Chu Gi The Nay/Chap 2"
+            },
+            {
+                "id": 3,
+                "title": "Chap 3",
+                "date": "15/05/2026",
+                "folder": "chapters/Cai The Loai Kim Chu Gi The Nay/Chap 3"
+            },
+            {
+                "id": 4,
+                "title": "Chap 4",
+                "date": "08/05/2026",
+                "folder": "chapters/Cai The Loai Kim Chu Gi The Nay/Chap 4"
+            },
+            {
+                "id": 5,
+                "title": "Chap 5",
+                "date": "01/05/2026",
+                "folder": "chapters/Cai The Loai Kim Chu Gi The Nay/Chap 5"
+            },
+            {
+                "id": 6,
+                "title": "Chap 6",
+                "date": "24/04/2026",
+                "folder": "chapters/Cai The Loai Kim Chu Gi The Nay/Chap 6"
+            },
+            {
+                "id": 7,
+                "title": "Chap 7",
+                "date": "17/04/2026",
+                "folder": "chapters/Cai The Loai Kim Chu Gi The Nay/Chap 7"
+            },
+            {
+                "id": 8,
+                "title": "Chap 8",
+                "date": "10/04/2026",
+                "folder": "chapters/Cai The Loai Kim Chu Gi The Nay/Chap 8"
+            },
+            {
+                "id": 9,
+                "title": "Chap 9",
+                "date": "03/04/2026",
+                "folder": "chapters/Cai The Loai Kim Chu Gi The Nay/Chap 9"
+            }
+        ]
+}
+}

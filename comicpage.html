@@ -34,29 +34,26 @@
     </navigation>
     <div class="comic-detail-container">
   
-  <div class="breadcrumb"><a href="homepage.html">Trang Chủ</a> &gt; <a href="comicpage.html">Người Hầu Trong Tủ Kính</a></div>
+  <div class="breadcrumb"><a href="homepage.html">Trang Chủ</a> <!---&gt;---> <a href="#"></a></div>
 
   <div class="comic-main-info">
     <div class="comic-cover">
-      <img src="bìa maid.jpg" alt="[CNT] RACK">
+      <img id="comic-cover" src="" alt="">
     </div>
 
     <div class="comic-details">
-      <h1 class="comic-title">Người Hầu Trong Tủ Kính</h1>
-      <p class="comic-meta"><strong>Tên Khác:</strong> ...</p>
-      <p class="comic-meta"><strong>Tác giả:</strong> ... <strong>Nhóm dịch:</strong> HeliumTG</p>
-      <p class="comic-meta"><strong>Tình trạng:</strong> Đang tiến hành</p>
+      <h1 class="comic-title" id="comic-title"></h1>
+      <p class="comic-meta"><strong>Tên Khác:</strong><span id="comic-original-title"></span></p>
+      <p class="comic-meta"><strong>Tác giả:</strong><span id="comic-author"></span></p>
+      <p class="comic-meta"><strong>Nhóm dịch:</strong><span id="comic-team"></span></p>
+      <p class="comic-meta"><strong>Tình trạng:</strong><span id="comic-status"></span></p>
       
       <div class="comic-stats">
-        <span>❤️ 20</span>
-        <span>👁️ 44097</span>
+        <span>❤️ 999</span>
+        <span>👁️ 9999</span>
       </div>
 
-      <div class="comic-tags">
-        <span class="tag">BL</span>
-        <span class="tag">Manhwa</span>
-        <span class="tag">Chiếm Hữu</span>
-        <span class="tag">Bot Ngây Thơ</span>
+      <div class="comic-tags" id="comic-tags">
         </div>
 
       <div class="comic-actions">
@@ -66,37 +63,20 @@
       </div>
 
       <div class="comic-summary">
-        <p>[Niên hạ chiếm hữu công 'Ju Ui-yeong' X Niên thượng nhút nhát thụ 'Seo Yo-ham']
-
-Trong lúc ở lại một mình thu dọn đồ đạc đến tận đêm muộn, 'Yo-ham' bỗng phát hiện ra một bộ đồ hầu gái.
-
-Không thể kìm nén ham muốn thầm kín, ngay khoảnh khắc anh trốn vào trong tủ đồ và bước qua ranh giới của mình...
-
-Thì qua khe cửa tủ, 'Ju Ui-yeong', người bấy lâu nay anh chỉ dám đứng từ xa nhìn ngắm, bỗng xuất hiện.
-
-Trớ trêu thay, anh lại bị chính cậu ta bắt quả tang vào khoảnh khắc bản thân muốn che giấu nhất.
-
-"Tiền bối, hóa ra anh còn biến thái hơn cả tôi cơ à?"</p>
+        <p id="comic-description"></p>
       </div>
     </div>
   </div>
 
   <div class="comic-chapters-section">
     <h2 class="section-heading">📜 Danh sách chap</h2>
-    <div class="chapters-list">
-      <div class="chapter-item">
-        <a href="comicchap.html">Chap 1</a>
-        <span class="chapter-date">29/05/2026</span>
-      </div>
-      <div class="chapter-item">
-        <a href="#">Chap 2</a>
-        <span class="chapter-date">22/05/2026</span>
-      </div>
+    <div class="chapters-list" id="chapters-list">
+        <!-- Các chap sẽ được thêm vào đây bằng JavaScript -->
       </div>
   </div>
 
   <div class="comic-comments-section">
-    <h2 class="section-heading">💬 Bình luận (14)</h2>
+    <h2 class="section-heading">💬 Bình luận (14) (khong hoat dong)</h2>
     <div class="comment-box">
       <div class="comment-textarea">
         <textarea placeholder="Nội dung bình luận"></textarea>
@@ -107,4 +87,5 @@ Trớ trêu thay, anh lại bị chính cậu ta bắt quả tang vào khoảnh 
 
 </div>
     </body>
+    <script src="comicpage.js"></script>
     </html>
